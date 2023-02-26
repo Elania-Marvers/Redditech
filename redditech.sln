@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redditech", "redditech\redditech.csproj", "{BA4D4DE8-29C6-4170-B29D-716BE21D17E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redditech", "redditech\redditech.csproj", "{0BC32B49-F05B-4D89-AB98-EADF16C7233B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F34CA6D-BA1C-46C7-89EE-A3A56EC2E2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM_Test", "..\..\Projects\MVVM_Test\MVVM_Test\MVVM_Test.csproj", "{E4617C6B-81FB-4731-854D-DD89718DACEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4D4DE8-29C6-4170-B29D-716BE21D17E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4D4DE8-29C6-4170-B29D-716BE21D17E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4D4DE8-29C6-4170-B29D-716BE21D17E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4D4DE8-29C6-4170-B29D-716BE21D17E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC32B49-F05B-4D89-AB98-EADF16C7233B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC32B49-F05B-4D89-AB98-EADF16C7233B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC32B49-F05B-4D89-AB98-EADF16C7233B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC32B49-F05B-4D89-AB98-EADF16C7233B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4617C6B-81FB-4731-854D-DD89718DACEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4617C6B-81FB-4731-854D-DD89718DACEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4617C6B-81FB-4731-854D-DD89718DACEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4617C6B-81FB-4731-854D-DD89718DACEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA14EEDE-F1F8-4725-8B42-DA0565650A51}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		outputpath = redditech/bin/Release/net7.0
+	EndGlobalSection
+EndGlobal
